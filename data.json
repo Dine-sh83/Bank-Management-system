@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dinesh sahu",
+        "number": "8349180000",
+        "email": "dinesh@gmail.com",
+        "age": 23,
+        "pin": "9999",
+        "accountNo": "SOU4587",
+        "balance": 0
+    },
+    {
+        "name": "Xyz",
+        "number": "31211515",
+        "email": "oyeromeo322@gmail.com",
+        "age": 22,
+        "pin": "1144",
+        "accountNo": "YVG4298",
+        "balance": 0
+    }
+]
